@@ -1,6 +1,6 @@
 # deep-audio-super-resolution
 
-## Framework to train audio super-resolution neural nets on spectrogram features
+Framework to train audio super-resolution neural nets on spectrogram features
 
 ## Running an experiment
 
